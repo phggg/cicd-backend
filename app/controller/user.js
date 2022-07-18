@@ -9,7 +9,7 @@ class UserController extends Controller {
     if (data) {
       this.success(data);
     } else {
-      this.notFound('没有找到数据')
+      this.notFound('没有找到数据123')
     }
   }
 
